@@ -3,7 +3,7 @@ import os
 import shutil
 
 import gymnasium as gym
-import numy as np
+import numpy as np
 import torch
 
 from gymnasium.wrappers import RecordEpisodeStatistics, RecordVideo
